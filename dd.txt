@@ -1,1 +1,6 @@
-It is no for me 
+It is no for me
+
+next Change for Merge conflicts 
+
+
+next change in master
